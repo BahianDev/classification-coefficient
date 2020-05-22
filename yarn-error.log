@@ -1,0 +1,36 @@
+Arguments: 
+  D:\Program Files\nodejs\node.exe D:\Program Files (x86)\Yarn\bin\yarn.js init
+
+PATH: 
+  C:\Python38\Scripts\;C:\Python38\;C:\Python27\;C:\Python27\Scripts;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\ProgramData\chocolatey\bin;C:\Program Files\Java\jdk1.8.0_211\bin;D:\Program Files\Git\cmd;D:\Program Files\Git\mingw64\bin;D:\Program Files\Git\usr\bin;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;D:\Android\Sdk\platform-tools;C:\Go\bin;D:\Program Files\nodejs\;D:\Program Files (x86)\Yarn\bin\;D:\Program Files\Microsoft VS Code\bin;D:\Program Files\PostgreSQL\12\bin;C:\Users\Wesley\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\Wesley\AppData\Local\Programs\Python\Python38-32\;C:\Users\Wesley\AppData\Local\Microsoft\WindowsApps;C:\Program Files\MongoDB\Server\4.2\bin;;D:\Program Files\IntelliJ IDEA 2019.3.3\bin;;C:\Users\Wesley\go\bin;C:\Users\Wesley\AppData\Roaming\npm;C:\Users\Wesley\AppData\Local\Yarn\bin
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  12.16.3
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (D:\Program Files (x86)\Yarn\lib\cli.js:137008:13)
+      at Interface.emit (events.js:310:20)
+      at Interface._ttyWrite (readline.js:893:16)
+      at ReadStream.onkeypress (readline.js:198:10)
+      at ReadStream.emit (events.js:310:20)
+      at emitKeys (internal/readline/utils.js:438:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1160:36)
+      at ReadStream.emit (events.js:310:20)
+      at addChunk (_stream_readable.js:286:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

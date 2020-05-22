@@ -1,0 +1,15 @@
+Algoritmo Coenficiente classificatório
+	Média ponderada de cada semestre
+	Média aritmética de cada ano
+	Média aritmética dos 3 anos 
+
+src
+   --controllers
+      --classificationController(index)
+   --services
+      --read
+      --calculation
+   --database
+      --connection
+      --csv files
+	   	

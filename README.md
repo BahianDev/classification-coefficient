@@ -1,6 +1,6 @@
 ﻿# classification-coefficient
 
-<h3src</h3>
+src
     --controllers
         --classificationController(index)
     --services
